@@ -1,5 +1,7 @@
 # Install Ingress Nginx with letsencrypt certificates
 
+Guide from [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nginx-ingress-with-cert-manager-on-digitalocean-kubernetes)
+
 ## Install backend services
 
 ```sh
